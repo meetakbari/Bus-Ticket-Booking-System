@@ -1,0 +1,23 @@
+=| This is an Online Bus ticket reservation system which help you to book your tickets at anytime and anywhere by just  one click...!
+
+
+  +  How to use ?
+
+  1. To start this system just give run command.
+  2. There are 5 different options to handle it.
+  3. Except Admin option user can easily use all the option by entering their choice.
+  4. For search intercity bus press '1' by shown on screen.
+  5. Enter your origin and destination from given cities.
+  6. Enter your choice by 1.round trip OR 2.one way.
+  7. Input travel date for search bus on that date.
+  8. System will shown you available buses on that date and all the information related travelling.
+  9. If you want to book ticket press 'b' OR 'm' for back to main menu.
+ 10. For book ticket follow the steps.
+ 11. For any type of support you can contact us. Choose support > customer support.
+ 12. Feedback to the system choose support > feedback.
+ 13. To close the system back to main menu and press '5'.
+
+
+
+
+						Thank you... 	

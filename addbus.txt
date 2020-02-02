@@ -1,0 +1,9 @@
+Hj-2==sleeper==anand==surat==6=30
+KL-98==Seating==bharuch==ahmedabad==22=10
+g3==non-ac==bhavnagar==surat==6=30
+g4==ac==jamnagar==surat==6==30
+f3==ac==6:45==surat==5==60
+b3==ac==surat==bhuj==5==43456080
+ah18==non-ac==vadodara==surat==13==45
+hy23==sleeper==surat==vadodara==8==30
+
