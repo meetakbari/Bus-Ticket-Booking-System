@@ -9,4 +9,4 @@
 
 - User Interface is easily understandable even if you are not a programmer, just read and follow the instructions carefully given on every screen of application.
 
-- Thanks for downloading Bus Management System, Enjoy your valuable Day :)
+- Thank you for downloading Bus Management System, Enjoy your valuable Day :)
